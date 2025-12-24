@@ -13,8 +13,8 @@ Holberton School curriculum through the IBM partnership.
   - Git and GitHub basics
   - Open source contribution workflow
   - Licenses and governance
-- Certificate file: `open_source_certificate.png`
-- 
+- Certificate file: `certificate-oss`
+- Certificate URL: https://www.credly.com/badges/72938f2d-a835-44fd-a00a-d2c285d64df2
 
 ### 2. Agile Methodology
 - Platform: IBM SkillsBuild
@@ -24,8 +24,9 @@ Holberton School curriculum through the IBM partnership.
   - Scrum framework
   - Sprints and backlogs
   - Agile mindset
-- Certificate file: `agile_certificate.png`
-- 
+- Certificate file: `certificate-agile`
+- Certificate URL: https://www.credly.com/badges/07e77623-44cc-4a07-98e2-20deb01e4cda 
+
 
 ## 🏫 Program Information
 - School: Holberton School France
@@ -34,5 +35,5 @@ Holberton School curriculum through the IBM partnership.
 
 ## ✅ Notes
 All certificates were completed using my
-`@holbertonstudents.com` email address and are submitted
-according to Holberton School requirements.
+`@holbertonstudents.com` email address and are submitted according to Holberton School requirements.
+
