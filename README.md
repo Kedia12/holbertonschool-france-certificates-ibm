@@ -141,3 +141,12 @@ It is especially useful for collaborative technical projects, where success depe
 ## Author
 
 **IHOGOZA Kedia**
+
+## Trimester 3
+
+### Cloud Certificate
+- Platform: IBM SkillsBuild / IBM certificate source
+- Directory: `certificates-trimester-3`
+- Certificate file: `certificate-cloud`
+
+To upload the image for this certificate, place the image file in `certificates-trimester-3/` and name it `certificate-cloud.png` or `certificate-cloud.jpg`, then update this README to point to the final filename.
